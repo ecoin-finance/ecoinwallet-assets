@@ -1,0 +1,31 @@
+{
+    "name": "Beefy",
+    "website": "https://beefy.com/",
+    "description": "Beefy is a yield optimizer on etherscan",
+    "explorer": "https://etherscan.io/address/0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1",
+    "type": "ERC20",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB1F1ee126e9c96231Cc3d3fAD7C08b4cf873b1f1",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/beefyfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/beefyfinance"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.beefy.finance/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/beefy"
+        }
+    ]
+
+
+}
