@@ -3,7 +3,7 @@
     "website": "https://bitcoin.org",
     "description": "Bitcoin is a cryptocurrency and worldwide payment system. It is the first decentralized digital currency, as the system works without a central bank or single administrator Remember that this Bitcoin is dedicated for testing purposes only",
     "explorer": "https://blockchair.com/bitcoin/testnet/",
-    "research": "https://pt.wikipedia.org/wiki/Testnet",
+    "research": "https://en.bitcoin.it/wiki/Testnet",
     "symbol": "TBTC",
     "type": "coin",
     "decimals": 8,
