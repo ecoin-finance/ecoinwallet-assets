@@ -1,0 +1,10 @@
+{
+    "name": "Zeta Chain",
+    "website": "https://www.zetachain.com/",
+    "description": "With ZetaChain’s Omnichain Smart Contracts, build truly interoperable dApps that span multiple chains from Ethereum to Bitcoin and beyond. Access all of crypto from one chain.",
+    "explorer": "https://explorer.zetachain.com/",
+    "symbol": "ZETA",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active"
+}
