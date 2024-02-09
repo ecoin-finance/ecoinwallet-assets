@@ -5,9 +5,9 @@
     "decimals": 18,
     "website": "https://web3.wsmcasino.com/en/token",
     "description": "Wall Street Memes is a community that celebrates the retail investors who take on Wall Street and win. We serve the hottest financial and trading memes to our 1m+ community.",
-    "explorer": "https://bscscan.com/token/0x62694d43ccb9b64e76e38385d15e325c7712a735",
+    "explorer": "https://bscscan.com/token/0x62694D43Ccb9B64e76e38385d15e325c7712A735",
     "status": "active",
-    "id": "0x62694d43ccb9b64e76e38385d15e325c7712a735",
+    "id": "0x62694D43Ccb9B64e76e38385d15e325c7712A735",
     "links": [
         {
             "name": "twitter",
@@ -29,5 +29,5 @@
             "name": "discord",
             "url": "https://discord.com/invite/4E538pzeGX"
         },
-    ]
+    ],
 }
