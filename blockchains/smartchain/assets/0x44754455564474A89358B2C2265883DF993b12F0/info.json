@@ -1,0 +1,25 @@
+{
+    "name": "ZeroSwapToken",
+    "type": "BEP20",
+    "symbol": "ZEE",
+    "decimals": 18,
+    "website": "https://zeroswap.io/",
+    "description": "Zeroswap is a multi-chain compatible decentralized exchange aggregator protocol focused on making zero-fee transactions possible. Zeroswap aims to make on-chain trading simple and easy by providing access to multi-chains like Ethereum, BSC, Polygon, Avalanche, Optimism, Celo, Fantom, Arbitrum etc under one roof. The design of the core product allows it to function gasless and focused on aggregating liquidity from multiple protocols.",
+    "explorer": "https://bscscan.com/token/0x44754455564474a89358b2c2265883df993b12f0",
+    "status": "active",
+    "id": "0x44754455564474A89358B2C2265883DF993b12F0",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ZeroSwapLabs"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/zeroswap"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/zeroswap/"
+        },
+        ]
+}
