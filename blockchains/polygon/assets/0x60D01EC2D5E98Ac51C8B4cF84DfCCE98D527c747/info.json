@@ -1,0 +1,26 @@
+{
+    "name": "Izumi Token",
+    "website": "https://izumi.finance/home",
+    "description": "iZi token is izumi platform's utility token, it can be used to incentive pool set-up and other tools' usage",
+    "explorer": "https://polygonscan.com/token/0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
+    "type": "POLYGON",
+    "symbol": "iZi",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/izumi_Finance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/izumifinance"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/izumi-finance/"
+        },
+        
+    ]
+}
