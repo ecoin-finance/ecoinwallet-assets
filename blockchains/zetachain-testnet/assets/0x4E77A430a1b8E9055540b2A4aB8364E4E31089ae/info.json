@@ -1,7 +1,7 @@
 {
     "name": "Uniswap V2 (UNI-V2)",
     "type": "ZRC20",
-    "symbol": "UNI-V2",
+    "symbol": "tUNI-V2",
     "decimals": 18,
     "website": "https://www.zetachain.com/",
     "description": "The Uniswap V2 (UNI-V2) is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with ethereum official UNISWAP to ensure stability. Each unit of this asset directly corresponds to one unit of the original UNISWAP.",
