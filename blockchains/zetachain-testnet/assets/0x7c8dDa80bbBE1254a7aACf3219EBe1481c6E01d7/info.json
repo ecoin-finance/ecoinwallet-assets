@@ -1,0 +1,17 @@
+{
+    "name": "USDC-bsc_testnet",
+    "type": "ZRC20",
+    "symbol": "USDC.bsc",
+    "decimals": 6,
+    "website": "https://www.zetachain.com/",
+    "description": "The USDC-bsc_testnet is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with USDC-stablecoin official USDC to ensure stability. Each unit of this asset directly corresponds to one unit of the original USDC.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0x7c8dDa80bbBE1254a7aACf3219EBe1481c6E01d7",
+    "status": "active",
+    "id": "0x7c8dDa80bbBE1254a7aACf3219EBe1481c6E01d7",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

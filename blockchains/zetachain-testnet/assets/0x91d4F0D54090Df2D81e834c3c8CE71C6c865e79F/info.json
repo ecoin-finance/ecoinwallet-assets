@@ -1,0 +1,17 @@
+{
+    "name": "USDC-mumbai_testnet",
+    "type": "ZRC20",
+    "symbol": "USDC",
+    "decimals": 6,
+    "website": "https://www.zetachain.com/",
+    "description": "The USDC-mumbai_testnet is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with USDC-stablecoin official USDC to ensure stability. Each unit of this asset directly corresponds to one unit of the original USDC.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0x91d4F0D54090Df2D81e834c3c8CE71C6c865e79F",
+    "status": "active",
+    "id": "0x91d4F0D54090Df2D81e834c3c8CE71C6c865e79F",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

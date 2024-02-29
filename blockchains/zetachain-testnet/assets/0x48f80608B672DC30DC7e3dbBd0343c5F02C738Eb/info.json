@@ -1,0 +1,17 @@
+{
+    "name": "MATIC-mumbai_testnet",
+    "type": "ZRC20",
+    "symbol": "tMATIC",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The MATIC-mumbai_testnet is a ZRC20 token on the Zetachain blockchain, Maintaining a 1:1 value relationship with Polygon's official MATIC to ensure stability. Each unit of this asset directly corresponds to one unit of the original MATIC.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0x48f80608B672DC30DC7e3dbBd0343c5F02C738Eb",
+    "status": "active",
+    "id": "0x48f80608B672DC30DC7e3dbBd0343c5F02C738Eb",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}
