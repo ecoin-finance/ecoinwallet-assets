@@ -1,0 +1,25 @@
+{
+    "name": "Izumi Token",
+    "type": "ZRC20",
+    "symbol": "stZETA",
+    "decimals": 18,
+    "website": "https://zetaearn.com/",
+    "description": "ZetaEarn serves as a liquid staking protocol for the ZetaChain PoS (Proof of Stake) blockchain. It provides users with the ability to stake their ERC20 ZETA tokens on the ZetaChain mainnet and instantly receive a representation of their stake in the form of stZETA tokens, eliminating the need to maintain staking infrastructure. Users will earn staking rewards and retain control over their stZETA tokens.",
+    "explorer": "https://explorer.zetachain.com/address/0x45334a5b0a01ce6c260f2b570ec941c680ea62c0",
+    "status": "active",
+    "id": "0x45334a5b0a01ce6c260f2b570ec941c680ea62c0",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ZetaEarn"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/zetaearn"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/zetaearn/"
+        },
+    ]
+}
