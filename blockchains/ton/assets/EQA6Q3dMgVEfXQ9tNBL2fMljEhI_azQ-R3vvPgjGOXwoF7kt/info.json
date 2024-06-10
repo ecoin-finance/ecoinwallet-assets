@@ -1,0 +1,15 @@
+{
+    "address": "EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt",
+    "name": "Ton Inu",
+    "type": "TON",
+    "symbol": "TINU",
+    "decimals": 9,
+    "description": "TON INU ecosystem is a comprehensive toolkit for the TON network, offering a diverse array of ton tools alongside essential Telegram bots and channels. Seamlessly navigate the decentralised landscape and unlock new possibilities for your journey.",
+    "status": "active",
+    "explorer": "https://tonscan.org/address/EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt",
+    "id": "EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt",
+    "website": "https://toninu.tech/",
+    "tags": [
+        "Toncoin Ecosystem"
+    ]
+}
