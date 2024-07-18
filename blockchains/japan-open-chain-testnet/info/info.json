@@ -1,0 +1,10 @@
+{
+    "name": "Japan Open Chain",
+    "website": "https://www.japanopenchain.org/",
+    "description": "Japan Open Chain (JOC) is a project aimed at creating an open and transparently operated blockchain infrastructure in order for everyone around the world ",
+    "explorer": "https://explorer.japanopenchain.org/",
+    "symbol": "JOC",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active"
+}
