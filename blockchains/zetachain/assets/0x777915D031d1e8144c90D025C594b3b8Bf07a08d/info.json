@@ -1,0 +1,17 @@
+{
+    "name": "SHIB-ETH",
+    "type": "ZRC20",
+    "symbol": "SHIB.ETH",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The SHIB-eth is a ZRC20 token on the Zetachain blockchain, Maintaining a 1:1 value relationship with Shib's official SHIB to ensure stability. Each unit of this asset directly corresponds to one unit of the original SHIB.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0x777915D031d1e8144c90D025C594b3b8Bf07a08d",
+    "status": "active",
+    "id": "0x777915D031d1e8144c90D025C594b3b8Bf07a08d",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}
