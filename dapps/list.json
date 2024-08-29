@@ -1,5 +1,5 @@
 {
-    "version": "5.6",
+    "version": "5.7",
     "dapps": [
 		{
 			"name": "Blockscout explorer",
@@ -304,7 +304,7 @@
 		{
 			"name": "PancakeSwap",
 			"url": "https://pancakeswap.finance",
-			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEp_rvDRNiPbRDYq95Bz5zWyI2jMmnaxPI0XJHnbL1A&s",
+			"img": "https://static.coinpaprika.com/coin/cake-pancakeswap/logo.png",
 			"group": "3",
 			"description": "Decentralized Exchange on Binance Smart Chain",
 			"links": "",
