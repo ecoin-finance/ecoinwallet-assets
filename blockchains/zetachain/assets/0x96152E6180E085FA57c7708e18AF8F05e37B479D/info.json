@@ -1,0 +1,17 @@
+{
+    "name": "ZetaChain ZRC20 USDC on BASE",
+    "type": "ZRC20",
+    "symbol": "USDC.BASE",
+    "decimals": 6,
+    "website": "https://www.zetachain.com/",
+    "description": "The USDC-base is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with USDC-stablecoin official USDC to ensure stability. Each unit of this asset directly corresponds to one unit of the original USDC.",
+    "explorer": "https://explorer.zetachain.com/address/0x96152E6180E085FA57c7708e18AF8F05e37B479D",
+    "status": "active",
+    "id": "0x96152E6180E085FA57c7708e18AF8F05e37B479D",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}
