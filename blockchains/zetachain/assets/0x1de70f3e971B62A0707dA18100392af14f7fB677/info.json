@@ -1,0 +1,17 @@
+{
+    "name": "ZetaChain ZRC20 Base Mainnet ETH",
+    "type": "ZRC20",
+    "symbol": "ETH.BASE",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The ETH-BASE is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with ethereum official ETH to ensure stability. Each unit of this asset directly corresponds to one unit of the original ETH.",
+    "explorer": "https://explorer.zetachain.com/address/0x1de70f3e971B62A0707dA18100392af14f7fB677",
+    "status": "active",
+    "id": "0x1de70f3e971B62A0707dA18100392af14f7fB677",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}
