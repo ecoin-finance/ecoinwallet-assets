@@ -1,0 +1,11 @@
+{
+    "name": "Coinbase Wrapped BTC",
+    "website": "https://www.coinbase.com/pt-br/cbbtc",
+    "description": "Coinbase Wrapped BTC (cbBTC) is a token that is backed 1:1 by native Bitcoin (BTC) held by Coinbase, meaning that for all cbBTC in circulation, there is an equivalent amount of BTC held in a secure custody solution (including cold storage) provided by Coinbase.",
+    "explorer": "https://basescan.org/token/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "type": "ERC20",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+}

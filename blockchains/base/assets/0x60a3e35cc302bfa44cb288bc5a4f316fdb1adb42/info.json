@@ -1,0 +1,12 @@
+{
+    "name": "EURC Coin",
+    "website": "https://www.circle.com",
+    "description": "URC is issued by Circle under the same full-reserve model as USDC (USDC), a trusted dollar digital currency with more than $54 billion in circulation. 1 Designed for stability, EURC is 100% backed by euros held in euro-denominated banking accounts so that it’s always redeemable 1:1 for euros.",
+    "explorer": "https://basescan.org/token/0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
+    "research": "https://coinmarketcap.com/currencies/euro-coin/",
+    "type": "ERC20",
+    "symbol": "EURC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42"
+}
