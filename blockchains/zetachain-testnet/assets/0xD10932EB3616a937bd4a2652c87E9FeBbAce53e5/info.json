@@ -1,0 +1,17 @@
+{
+    "name": "ZetaChain ZRC20 USDC on SOLANA devnet",
+    "type": "ZRC20",
+    "symbol": "USDC.SOL",
+    "decimals": 6,
+    "website": "https://www.zetachain.com/",
+    "description": "The USDC-sol is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with USDC-stablecoin official USDC to ensure stability. Each unit of this asset directly corresponds to one unit of the original USDC.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0xD10932EB3616a937bd4a2652c87E9FeBbAce53e5",
+    "status": "active",
+    "id": "0xD10932EB3616a937bd4a2652c87E9FeBbAce53e5",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}
