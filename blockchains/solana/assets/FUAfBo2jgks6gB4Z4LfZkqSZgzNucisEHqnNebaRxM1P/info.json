@@ -1,0 +1,15 @@
+{
+    "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+    "name": "Melania Meme",
+    "type": "SOLANA",
+    "symbol": "MELANIA",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+    "id": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+    "website": "https://melaniameme.com/",
+    "tags": [
+        "Solana"
+    ]
+}

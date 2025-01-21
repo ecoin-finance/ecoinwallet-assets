@@ -1,0 +1,32 @@
+{
+    "name": "Solana",
+    "website": "https://solana.com",
+    "description": "Bring blockchain to the people. Solana supports experiences for power users, new consumers, and everyone in between.",
+    "explorer": "https://solscan.io/",
+    "symbol": "SOL",
+    "type": "coin",
+    "decimals": 9,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/solana-labs"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/pt-br/currencies/solana/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/solana"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/solana"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/solana"
+        }
+    ]
+}
