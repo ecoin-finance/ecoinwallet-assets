@@ -1,0 +1,15 @@
+{
+    "address": "4zMMC9srt5Ri5X14GAgXhaHii3GnPAEERYPJgZJDncDU",
+    "name": "USDC",
+    "type": "SOLANA",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/4zMMC9srt5Ri5X14GAgXhaHii3GnPAEERYPJgZJDncDU?cluster=devnet",
+    "id": "4zMMC9srt5Ri5X14GAgXhaHii3GnPAEERYPJgZJDncDU",
+    "website": "https://br.usdc.com/",
+    "tags": [
+        "Solana"
+    ]
+}
