@@ -1,0 +1,17 @@
+{
+    "name": "ZetaChain ZRC20 Solana Devnet SOL",
+    "type": "ZRC20",
+    "symbol": "SOL.SOLANA",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The SOL.SOLANA is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with solana official SOL to ensure stability. Each unit of this asset directly corresponds to one unit of the original ETH.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0xADF73ebA3Ebaa7254E859549A44c74eF7cff7501",
+    "status": "active",
+    "id": "0xADF73ebA3Ebaa7254E859549A44c74eF7cff7501",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

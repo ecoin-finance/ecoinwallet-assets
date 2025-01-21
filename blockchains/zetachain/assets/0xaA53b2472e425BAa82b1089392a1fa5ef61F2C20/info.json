@@ -1,0 +1,17 @@
+{
+    "name": "ZetaChain ZRC20 Solana Mainnet SOL",
+    "type": "ZRC20",
+    "symbol": "SOL.SOL",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The SOL.SOL is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with solana official SOL to ensure stability. Each unit of this asset directly corresponds to one unit of the original ETH.",
+    "explorer": "https://explorer.zetachain.com/address/0xaA53b2472e425BAa82b1089392a1fa5ef61F2C20",
+    "status": "active",
+    "id": "0xaA53b2472e425BAa82b1089392a1fa5ef61F2C20",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}
