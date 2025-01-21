@@ -1,0 +1,15 @@
+{
+    "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "name": "USDC",
+    "type": "SOLANA",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "id": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "website": "https://br.usdc.com/",
+    "tags": [
+        "Solana"
+    ]
+}
