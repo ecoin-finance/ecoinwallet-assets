@@ -1,0 +1,15 @@
+{
+    "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "name": "Jupiter",
+    "type": "SOLANA",
+    "symbol": "JUP",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "id": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "website": "https://www.jupresear.ch/",
+    "tags": [
+        "Solana"
+    ]
+}
