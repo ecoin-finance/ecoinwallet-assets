@@ -1,0 +1,15 @@
+{
+    "address": "So11111111111111111111111111111111111111112",
+    "name": "Wrapped SOL",
+    "type": "SPL",
+    "symbol": "WSOL",
+    "decimals": 9,
+    "description": "Wrapped SOL (WSOL) is a token on the Solana blockchain that represents native SOL. It's an SPL token, which is the native token protocol on Solana.",
+    "status": "active",
+    "explorer": "https://solscan.io/token/So11111111111111111111111111111111111111112?cluster=devnet",
+    "id": "So11111111111111111111111111111111111111112",
+    "website": "https://solana.com",
+    "tags": [
+        "Solana"
+    ]
+}
