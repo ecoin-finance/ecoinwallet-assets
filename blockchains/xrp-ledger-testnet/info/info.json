@@ -1,0 +1,24 @@
+{
+    "name": "XRP Ledger",
+    "website": "https://xrpl.org/",
+    "description": "XRP is a digital currency that is used for payments and exchanging currencies. It is the native token of the XRP Ledger, an open-source blockchain that was created in 2012.",
+    "explorer": "https://xrpscan.com",
+    "symbol": "XRP",
+    "type": "coin",
+    "decimals": 6,
+    "status": "active",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/xrp/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/ripple"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/xrp"
+        }
+    ]
+}
