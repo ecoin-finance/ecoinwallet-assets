@@ -1,0 +1,11 @@
+{
+    "name": "First Digital USD",
+    "website": "",
+    "description": "FDUSD (First Digital USD) is a 1:1 USD-backed Stablecoin. FDUSD revolutionizes global finance with a cutting-edge digital stablecoin, providing businesses and builders with security, speed, and innovation worldwide.",
+    "explorer": "https://etherscan.io/token/0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+    "type": "ERC20",
+    "symbol": "FDUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409"
+}
