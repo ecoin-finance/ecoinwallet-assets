@@ -1,0 +1,15 @@
+{
+    "address": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
+    "name": "First Digital USD",
+    "type": "SOLANA",
+    "symbol": "FDUSD",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
+    "id": "9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u",
+    "website": "https://tether.to/",
+    "tags": [
+        "Solana"
+    ]
+}
