@@ -1,5 +1,5 @@
 {
-    "version": "5.7",
+    "version": "5.8",
     "dapps": [
 		{
 			"name": "Blockscout explorer",
@@ -300,6 +300,18 @@
 			"contract": "",
 			"tags": "Stake,Trade,DeFi,DAO",
             "flag": "1"
+		},
+	    {
+			"name": "PancakeSwap",
+			"url": "https://jup.ag",
+			"img": "https://static.coinpaprika.com/coin/jup-jupiter-exchange-token/logo.png",
+			"group": "3",
+			"description": "Decentralized Exchange on Solana",
+			"links": "",
+			"chains": "SOLANA",
+			"contract": "",
+			"tags": "DEX,Exchange,DeFi,IDO",
+            "flag": ""
 		},
 		{
 			"name": "PancakeSwap",
