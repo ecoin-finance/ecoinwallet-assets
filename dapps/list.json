@@ -1,5 +1,5 @@
 {
-    "version": "5.7",
+    "version": "6.0",
     "dapps": [
 		{
 			"name": "Blockscout explorer",
@@ -116,7 +116,7 @@
 			"group": "3",
 			"description": "Digital marketplace for crypto collectibles",
 			"links": "",
-			"chains": "SMARTCHAIN,ETHEREUM,POLYGON",
+			"chains": "SMARTCHAIN,ETHEREUM,POLYGON,BASE",
 			"contract": "",
 			"tags": "NFT",
             "flag": ""
@@ -128,7 +128,7 @@
 			"group": "3",
 			"description": "Discover, sell and buy NFTs on Rarible.",
 			"links": "",
-			"chains": "ETHEREUM,POLYGON",
+			"chains": "ETHEREUM,POLYGON,BASE",
 			"contract": "",
 			"tags": "NFT",
             "flag": ""
@@ -164,7 +164,7 @@
 			"group": "3",
 			"description": "1inch is a decentralized exchange aggregator",
 			"links": "",
-			"chains": "SMARTCHAIN,ETHEREUM,POLYGON",
+			"chains": "SMARTCHAIN,ETHEREUM,POLYGON,BASE",
 			"contract": "",
 			"tags": "DEX,Exchange,DeFi,IDO",
             "flag": ""
@@ -176,7 +176,7 @@
 			"group": "3",
 			"description": "BakerySwap is a decentralized automated market-making (AMM) protocol on Binance Smart Chain(BSC) and the 1st NFT trading platform on BSC - Bakery NFT Supermarket'. BakerySwap is the next iteration of Uniswap.",
 			"links": "",
-			"chains": "SMARTCHAIN",
+			"chains": "SMARTCHAIN,ETHEREUM,BASE",
 			"contract": "",
 			"tags": "DEX,Exchange,DeFi,IDO",
             "flag": ""
@@ -188,7 +188,7 @@
 			"group": "3",
 			"description": "QuickSwap is a next-generation layer-2 decentralised exchange and Automated Market Maker.",
 			"links": "",
-			"chains": "POLYGON",
+			"chains": "POLYGON,ETHEREUM",
 			"contract": "",
 			"tags": "DEX,Exchange,DeFi,IDO",
             "flag": ""
@@ -212,7 +212,7 @@
 			"group": "3",
 			"description": "The first DEX on BSC network with a three-type referral system",
 			"links": "",
-			"chains": "SMARTCHAIN",
+			"chains": "SMARTCHAIN,ETHEREUM,BASE",
 			"contract": "",
 			"tags": "DEX,Exchange,DeFi,IDO",
             "flag": ""
@@ -236,7 +236,7 @@
 			"group": "3",
 			"description": "PinkSale helps everyone to create their own tokens and token sales in few seconds. No code is required",
 			"links": "",
-			"chains": "SMARTCHAIN,ETHEREUM,POLYGON",
+			"chains": "SMARTCHAIN,ETHEREUM,POLYGON,BASE,ZETACHAIN",
 			"contract": "",
 			"tags": "Launchpad,DeFi,IDO",
             "flag": ""
@@ -248,7 +248,7 @@
 			"group": "3",
 			"description": "The ultimate decentralized exchange. Effortlessly swap tokens with smart contracts for seamless trades.",
 			"links": "",
-			"chains": "SMARTCHAIN,ETHEREUM,POLYGON",
+			"chains": "SMARTCHAIN,ETHEREUM,POLYGON,BASE",
 			"contract": "",
 			"tags": "DEX,Exchange,DeFi,IDO",
             "flag": ""
@@ -272,7 +272,7 @@
 			"group": "3,4",
 			"description": "iZUMi Finance is a multi-chain DeFi protocol providing one-stop DEX-as-a-Service (DaaS).",
 			"links": "",
-			"chains": "SMARTCHAIN,ETHEREUM,POLYGON,ZETACHAIN",
+			"chains": "SMARTCHAIN,ETHEREUM,POLYGON,ZETACHAIN,BASE",
 			"contract": "",
 			"tags": "DEX,Exchange,DeFi,Bridge,Cross-chain",
             "flag": "1"
@@ -296,7 +296,7 @@
 			"group": "3",
 			"description": "ZetaHub is a place to manage all your ZetaChain related products.",
 			"links": "",
-			"chains": "ZETACHAIN",
+			"chains": "SMARTCHAIN,ETHEREUM,POLYGON,ZETACHAIN,BASE",
 			"contract": "",
 			"tags": "Stake,Trade,DeFi,DAO",
             "flag": "1"
@@ -308,7 +308,7 @@
 			"group": "3",
 			"description": "Decentralized Exchange on Binance Smart Chain",
 			"links": "",
-			"chains": "SMARTCHAIN",
+			"chains": "SMARTCHAIN,ETHEREUM,BASE",
 			"contract": "",
 			"tags": "DEX,Exchange,DeFi,IDO",
             "flag": ""
