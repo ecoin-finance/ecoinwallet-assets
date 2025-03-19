@@ -1,0 +1,15 @@
+{
+    "address": "0x3e6eE2F3f33766294C7148bc85c7d145E70cBD9A",
+    "name": "Obsidian",
+    "type": "ERC20",
+    "symbol": "OBS",
+    "decimals": 18,
+    "description": "",
+    "status": "active",
+    "explorer": "https://testnet.sonicscan.org/token/0x3e6eE2F3f33766294C7148bc85c7d145E70cBD9A",
+    "id": "0x3e6eE2F3f33766294C7148bc85c7d145E70cBD9A",
+    "website": "",
+    "tags": [
+        "EVM"
+    ]
+}

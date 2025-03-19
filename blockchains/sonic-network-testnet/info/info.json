@@ -1,0 +1,32 @@
+{
+    "name": "Sonic",
+    "website": "https://www.soniclabs.com/",
+    "description": "Sonic is a Layer 1 blockchain platform compatible with EVM, offering developers attractive incentives and powerful infrastructure.",
+    "explorer": "https://testnet.sonicscan.org",
+    "symbol": "tS",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/sonic-labs"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/sonic/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/soniclabs"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/soniclabs"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/sonic"
+        }
+    ]
+}
