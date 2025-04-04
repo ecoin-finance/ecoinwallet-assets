@@ -311,7 +311,73 @@
 			"chains": "SMARTCHAIN,ETHEREUM,BASE",
 			"contract": "",
 			"tags": "DEX,Exchange,DeFi,IDO",
-            "flag": ""
-		}
+                        "flag": ""
+		},
+
+
+{
+	"name": "Jupiter",
+	"url": "https://jup.ag/swap/SOL-USDC",
+	"img": "https://cryptologos.cc/logos/jupiter-ag-jup-logo.png",
+	"group": "3",
+	"description": "Leading DEX aggregator on Solana",
+	"links": "",
+	"chains": "SOLANA",
+	"contract": "",
+	"tags": "DEX,Aggregator,DeFi",
+	"flag": ""
+},
+{
+	"name": "Raydium",
+	"url": "https://raydium.io/swap/?inputMint=sol&outputMint=4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+	"img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/raydium-8544068-7002624.png",
+	"group": "3",
+	"description": "AMM and liquidity provider on Solana",
+	"links": "",
+	"chains": "SOLANA",
+	"contract": "",
+	"tags": "DEX,DeFi,AMM",
+	"flag": ""
+},
+{
+	"name": "Meteora",
+	"url": "https://meteora.ag",
+	"img": "https://img.cryptorank.io/coins/meteora1679488925724.png",
+	"group": "3",
+	"description": "Solana's dynamic liquidity layer",
+	"links": "",
+	"chains": "SOLANA",
+	"contract": "",
+	"tags": "DeFi,Liquidity,Solana",
+	"flag": ""
+},
+{
+	"name": "Solanart",
+	"url": "https://solanart.io",
+	"img": "https://icoholder.com/files/img/6d74774b68109799f0f803958eea0468.jpeg",
+	"group": "3",
+	"description": "NFT marketplace on Solana",
+	"links": "",
+	"chains": "SOLANA",
+	"contract": "",
+	"tags": "NFT,Marketplace,Solana",
+	"flag": ""
+},
+{
+	"name": "Solana Explorer",
+	"url": "https://solscan.io",
+	"img": "https://smithii.io/wp-content/uploads/2023/04/cJiIPd2s_400x400.jpeg",
+	"group": "3",
+	"description": "Solana blockchain explorer",
+	"links": "",
+	"chains": "SOLANA",
+	"contract": "",
+	"tags": "Explorer,Blockchain,Solana",
+	"flag": "Solana Explorer"
+}
+
+
+
+	    
 	]
 }
