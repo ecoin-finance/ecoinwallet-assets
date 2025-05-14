@@ -1,0 +1,17 @@
+{
+    "name": "Tether USD",
+    "type": "ZRC20",
+    "symbol": "tUSDT",
+    "decimals": 6,
+    "website": "https://www.zetachain.com/",
+    "description": "The Tether USD is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with USDT-stablecoin official USDT to ensure stability. Each unit of this asset directly corresponds to one unit of the original USDT.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0x35060f7803eF7763b77E4EF0082bc0bCf2654154",
+    "status": "active",
+    "id": "0x35060f7803eF7763b77E4EF0082bc0bCf2654154",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

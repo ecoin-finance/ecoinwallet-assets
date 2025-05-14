@@ -1,0 +1,17 @@
+{
+    "name": "UNISWAP ZETA V2",
+    "type": "ZRC20",
+    "symbol": "UNIV2",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The UNISWAP ZETA V2 is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with ethereum official UNISWAP to ensure stability. Each unit of this asset directly corresponds to one unit of the original UNISWAP.",
+    "explorer": "https://explorer.zetachain.com/address/0x4E77A430a1b8E9055540b2A4aB8364E4E31089ae",
+    "status": "active",
+    "id": "0x4E77A430a1b8E9055540b2A4aB8364E4E31089ae",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

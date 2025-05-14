@@ -1,0 +1,36 @@
+{
+    "name": "Wall Street Memes",
+    "type": "BEP20",
+    "symbol": "WSM",
+    "decimals": 18,
+    "website": "https://web3.wsmcasino.com/en/token",
+    "description": "Wall Street Memes is a community that celebrates the retail investors who take on Wall Street and win. We serve the hottest financial and trading memes to our 1m+ community.",
+    "explorer": "https://bscscan.com/token/0x62694d43ccb9b64e76e38385d15e325c7712a735",
+    "status": "active",
+    "id": "0x62694D43Ccb9B64e76e38385d15e325c7712A735",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/wallstmemes"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/wallst_memes"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wall-street-memes/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/wall-street-memes"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/4E538pzeGX"
+        },
+    ],
+    "tags": [
+        "Memes"
+    ]
+}

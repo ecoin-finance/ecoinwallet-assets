@@ -1,0 +1,25 @@
+{
+    "name": "Sandbox",
+    "website": "https://www.sandbox.game/",
+    "description": "The Sandbox is a blockchain-based virtual world allowing users to create, build, buy and sell digital assets in the form of a game.",
+    "explorer": "https://polygonscan.com/address/0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+    "type": "POLYGON",
+    "symbol": "SAND",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/sandboxgame"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/thesandboxgame"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/the-sandbox"
+        }
+    ]
+}

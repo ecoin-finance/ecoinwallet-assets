@@ -1,0 +1,17 @@
+{
+    "name": "ETH-eth",
+    "type": "ZRC20",
+    "symbol": "ETH-ETH",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The ETH-eth is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with ethereum official ETH to ensure stability. Each unit of this asset directly corresponds to one unit of the original ETH.",
+    "explorer": "https://explorer.zetachain.com/address/0xd97B1de3619ed2c6BEb3860147E30cA8A7dC9891",
+    "status": "active",
+    "id": "0xd97B1de3619ed2c6BEb3860147E30cA8A7dC9891",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "DAI-ETH",
+    "type": "ZRC20",
+    "symbol": "DAI.ETH",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The DAI-eth is a ZRC20 token on the Zetachain blockchain, Maintaining a 1:1 value relationship with Dai's official SHIB to ensure stability. Each unit of this asset directly corresponds to one unit of the original DAI.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0xcC683A782f4B30c138787CB5576a86AF66fdc31d",
+    "status": "active",
+    "id": "0xcC683A782f4B30c138787CB5576a86AF66fdc31d",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

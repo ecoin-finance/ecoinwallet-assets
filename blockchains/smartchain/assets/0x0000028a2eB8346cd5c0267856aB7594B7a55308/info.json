@@ -1,0 +1,17 @@
+{
+    "name": "Token Zeta",
+    "type": "BEP20",
+    "symbol": "ZETA",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "With ZetaChain’s Omnichain Smart Contracts, build truly interoperable dApps that span multiple chains from Ethereum to Bitcoin and beyond. Access all of crypto from one chain.",
+    "explorer": "https://bscscan.com/token/0x0000028a2eB8346cd5c0267856aB7594B7a55308",
+    "status": "active",
+    "id": "0x0000028a2eB8346cd5c0267856aB7594B7a55308",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

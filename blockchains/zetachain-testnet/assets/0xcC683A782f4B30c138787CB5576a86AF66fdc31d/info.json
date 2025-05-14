@@ -1,0 +1,17 @@
+{
+    "name": "USDC-sepolia_testnet",
+    "type": "ZRC20",
+    "symbol": "tUSDC.SEPOLIA",
+    "decimals": 6,
+    "website": "https://www.zetachain.com/",
+    "description": "The USDC-goerli_testnet is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with USDC-stablecoin official USDC to ensure stability. Each unit of this asset directly corresponds to one unit of the original USDC.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0xcC683A782f4B30c138787CB5576a86AF66fdc31d",
+    "status": "active",
+    "id": "0xcC683A782f4B30c138787CB5576a86AF66fdc31d",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

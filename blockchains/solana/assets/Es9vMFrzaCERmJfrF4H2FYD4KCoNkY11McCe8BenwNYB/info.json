@@ -1,0 +1,15 @@
+{
+    "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "name": "Tether",
+    "type": "SOLANA",
+    "symbol": "USDT",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "id": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "website": "https://tether.to/",
+    "tags": [
+        "Solana"
+    ]
+}

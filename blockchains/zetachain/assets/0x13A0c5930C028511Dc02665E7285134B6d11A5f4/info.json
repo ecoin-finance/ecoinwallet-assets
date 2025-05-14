@@ -1,0 +1,17 @@
+{
+    "name": "BTC-btc",
+    "type": "ZRC20",
+    "symbol": "BTC.BTC",
+    "decimals": 8,
+    "website": "https://www.zetachain.com/",
+    "description": "The BTC-btc is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with bitcoin official BTC to ensure stability. Each unit of this asset directly corresponds to one unit of the original BTC.",
+    "explorer": "https://explorer.zetachain.com/address/0x13A0c5930C028511Dc02665E7285134B6d11A5f4",
+    "status": "active",
+    "id": "0x13A0c5930C028511Dc02665E7285134B6d11A5f4",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

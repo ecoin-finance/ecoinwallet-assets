@@ -1,0 +1,15 @@
+{
+    "address": "ELPrcU7qRV3DUz8AP6siTE7GkR3gkkBvGmgBRiLnC19Y",
+    "name": "SafeMoon Meme",
+    "type": "SOLANA",
+    "symbol": "SFM",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/ELPrcU7qRV3DUz8AP6siTE7GkR3gkkBvGmgBRiLnC19Y",
+    "id": "ELPrcU7qRV3DUz8AP6siTE7GkR3gkkBvGmgBRiLnC19Y",
+    "website": "https://safemoon.meme",
+    "tags": [
+        "Solana"
+    ]
+}

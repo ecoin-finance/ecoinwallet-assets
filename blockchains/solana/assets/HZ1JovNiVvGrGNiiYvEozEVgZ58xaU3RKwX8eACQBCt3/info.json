@@ -1,0 +1,15 @@
+{
+    "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+    "name": "Pyth Network",
+    "type": "SOLANA",
+    "symbol": "PYTH",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+    "id": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+    "website": "https://www.jupresear.ch/",
+    "tags": [
+        "Solana"
+    ]
+}

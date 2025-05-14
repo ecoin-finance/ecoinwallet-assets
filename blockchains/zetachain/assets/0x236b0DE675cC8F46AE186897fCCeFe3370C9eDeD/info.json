@@ -1,0 +1,17 @@
+{
+    "name": "PEPE-ETH",
+    "type": "ZRC20",
+    "symbol": "PEPE.ETH",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The Pepe-eth is a ZRC20 token on the Zetachain blockchain, Maintaining a 1:1 value relationship with Pepe's official PEPE to ensure stability. Each unit of this asset directly corresponds to one unit of the original PEPE.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0x236b0DE675cC8F46AE186897fCCeFe3370C9eDeD",
+    "status": "active",
+    "id": "0x236b0DE675cC8F46AE186897fCCeFe3370C9eDeD",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

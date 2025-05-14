@@ -1,0 +1,17 @@
+{
+    "name": "Wrapped Ether",
+    "type": "ERC20",
+    "symbol": "WETH",
+    "decimals": 18,
+    "website": "https://weth.io/",
+    "description": "The reason you need wETH is to be able to trade ETH for other ERC-20 tokens on decentralized platforms like Radar Relay. Because decentralized platforms running on Ethereum use smart contracts to facilitate trades directly between users, every user needs to have the same standardized format for every token they trade. This ensures tokens don’t get lost in translation.",
+    "explorer": "https://scrollscan.com/token/0x5300000000000000000000000000000000000004",
+    "status": "active",
+    "id": "0x5300000000000000000000000000000000000004",
+    "links": [
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/bridged-wrapped-ether-scroll"
+        },
+    ],
+}

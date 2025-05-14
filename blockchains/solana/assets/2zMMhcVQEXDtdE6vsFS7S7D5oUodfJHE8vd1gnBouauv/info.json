@@ -1,0 +1,15 @@
+{
+    "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "name": "Pudgy Penguins",
+    "type": "SOLANA",
+    "symbol": "PENGU",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "id": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+    "website": "https://www.jupresear.ch/",
+    "tags": [
+        "Solana"
+    ]
+}

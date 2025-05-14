@@ -1,0 +1,15 @@
+{
+    "address": "0x30BF3761147Ef0c86E2f84c3784FBD89E7954670",
+    "name": "Diamond",
+    "type": "ERC20",
+    "symbol": "DIAM",
+    "decimals": 18,
+    "description": "",
+    "status": "active",
+    "explorer": "https://testnet.sonicscan.org/token/0x30BF3761147Ef0c86E2f84c3784FBD89E7954670",
+    "id": "0x30BF3761147Ef0c86E2f84c3784FBD89E7954670",
+    "website": "",
+    "tags": [
+        "EVM"
+    ]
+}

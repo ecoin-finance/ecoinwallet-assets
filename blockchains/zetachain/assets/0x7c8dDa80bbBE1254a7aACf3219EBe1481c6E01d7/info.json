@@ -1,0 +1,17 @@
+{
+    "name": "USDT-eth",
+    "type": "ZRC20",
+    "symbol": "USDT.ETH",
+    "decimals": 6,
+    "website": "https://www.zetachain.com/",
+    "description": "The USDT-eth is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with USDT-stablecoin official USDT to ensure stability. Each unit of this asset directly corresponds to one unit of the original USDT.",
+    "explorer": "https://explorer.zetachain.com/address/0x7c8dDa80bbBE1254a7aACf3219EBe1481c6E01d7",
+    "status": "active",
+    "id": "0x7c8dDa80bbBE1254a7aACf3219EBe1481c6E01d7",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

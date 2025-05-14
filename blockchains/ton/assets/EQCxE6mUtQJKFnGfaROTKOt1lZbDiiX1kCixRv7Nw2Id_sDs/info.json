@@ -1,0 +1,15 @@
+{
+    "address": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+    "name": "Tether USD",
+    "type": "TON",
+    "symbol": "USDT",
+    "decimals": 6,
+    "description": "Tether tokens offer the stability and simplicity of fiat currencies coupled with the innovative nature of blockchain technology, representing a perfect combination of both worlds.",
+    "status": "active",
+    "explorer": "https://tonscan.org/address/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+    "id": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+    "website": "https://tether.to/en/",
+    "tags": [
+        "Stablecoin"
+    ]
+}

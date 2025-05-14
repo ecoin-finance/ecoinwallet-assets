@@ -1,0 +1,11 @@
+{
+    "name": "Smart Chain Testnet",
+    "website": "https://binance.org/en/smartChain",
+    "description": "A Parallel Binance Chain to Enable Smart Contracts",
+    "explorer": "https://testnet.bscscan.com/",
+    "research": "https://research.binance.com/en/projects/bnb",
+    "symbol": "tBNB",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active"
+}

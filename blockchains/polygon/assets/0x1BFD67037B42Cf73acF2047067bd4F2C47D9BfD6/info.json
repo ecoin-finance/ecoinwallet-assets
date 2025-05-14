@@ -1,0 +1,18 @@
+{
+    "name": "Wrapped BTC pos",
+    "website": "https://www.wbtc.network/",
+    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
+    "explorer": "https://polygonscan.com/token/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+    "type": "POLYGON",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/WrappedBTC"
+        },
+        
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Izumi Token",
+    "website": "https://izumi.finance/home",
+    "description": "iZi token is izumi platform's utility token, it can be used to incentive pool set-up and other tools' usage.",
+    "explorer": "https://etherscan.io/token/0x9ad37205d608b8b219e6a2573f922094cec5c200",
+    "type": "ERC20",
+    "symbol": "iZi",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9ad37205d608B8b219e6a2573f922094CEc5c200"
+}

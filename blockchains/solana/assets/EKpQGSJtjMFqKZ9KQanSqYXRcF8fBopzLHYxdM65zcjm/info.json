@@ -1,0 +1,15 @@
+{
+    "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "name": "Dogwifhat",
+    "type": "SOLANA",
+    "symbol": "WIF",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "id": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "website": "https://www.jupresear.ch/",
+    "tags": [
+        "Solana"
+    ]
+}

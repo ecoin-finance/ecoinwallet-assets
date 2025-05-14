@@ -1,0 +1,17 @@
+{
+    "name": "Wrappped Zeta",
+    "type": "ZRC20",
+    "symbol": "WZETA",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "With ZetaChain’s Omnichain Smart Contracts, build truly interoperable dApps that span multiple chains from Ethereum to Bitcoin and beyond. Access all of crypto from one chain.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf",
+    "status": "active",
+    "id": "0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

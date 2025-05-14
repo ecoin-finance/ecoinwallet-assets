@@ -1,0 +1,11 @@
+{
+    "name": "WETH",
+    "symbol": "WETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://weth.io/",
+    "explorer": "https://sepolia.etherscan.io/address/0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+    "status": "active",
+    "id": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14"
+}

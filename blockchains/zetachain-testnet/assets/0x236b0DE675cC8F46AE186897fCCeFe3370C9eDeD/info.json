@@ -1,0 +1,17 @@
+{
+    "name": "ZetaChain ZRC20 Base Sepolia ETH-base_sepolia",
+    "type": "ZRC20",
+    "symbol": "ETH.BASESEPOLIA",
+    "decimals": 18,
+    "website": "https://www.zetachain.com/",
+    "description": "The ETH.BASESEPOLIA is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with ethereum official ETH to ensure stability. Each unit of this asset directly corresponds to one unit of the original ETH.",
+    "explorer": "https://explorer.zetachain.com/address/0x236b0DE675cC8F46AE186897fCCeFe3370C9eDeD",
+    "status": "active",
+    "id": "0x236b0DE675cC8F46AE186897fCCeFe3370C9eDeD",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

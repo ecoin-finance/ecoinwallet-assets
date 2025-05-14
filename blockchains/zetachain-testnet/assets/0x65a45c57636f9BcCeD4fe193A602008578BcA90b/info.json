@@ -1,0 +1,17 @@
+{
+    "name": "BTC-btc_testnet",
+    "type": "ZRC20",
+    "symbol": "tBTC",
+    "decimals": 8,
+    "website": "https://www.zetachain.com/",
+    "description": "The BTC-btc_testnet is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with bitcoin official BTC to ensure stability. Each unit of this asset directly corresponds to one unit of the original BTC.",
+    "explorer": "https://athens.explorer.zetachain.com/address/0x65a45c57636f9BcCeD4fe193A602008578BcA90b",
+    "status": "active",
+    "id": "0x65a45c57636f9BcCeD4fe193A602008578BcA90b",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

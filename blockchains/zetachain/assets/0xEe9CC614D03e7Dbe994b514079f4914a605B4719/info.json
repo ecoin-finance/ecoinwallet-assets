@@ -1,0 +1,17 @@
+{
+    "name": "ZetaChain ZRC20 USDT on SOLANA",
+    "type": "ZRC20",
+    "symbol": "USDT.SOL",
+    "decimals": 6,
+    "website": "https://www.zetachain.com/",
+    "description": "The USDT-sol is a ZRC20 token on the Zetachain blockchain, maintaining a 1:1 value relationship with USDT-stablecoin official USDT to ensure stability. Each unit of this asset directly corresponds to one unit of the original USDT.",
+    "explorer": "https://explorer.zetachain.com/address/0xEe9CC614D03e7Dbe994b514079f4914a605B4719",
+    "status": "active",
+    "id": "0xEe9CC614D03e7Dbe994b514079f4914a605B4719",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zetablockchain"
+        },
+    ]
+}

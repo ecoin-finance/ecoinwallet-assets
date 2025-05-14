@@ -1,0 +1,15 @@
+{
+    "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "name": "Raydium",
+    "type": "SOLANA",
+    "symbol": "RAY",
+    "decimals": 6,
+    "description": "",
+    "status": "active",
+    "explorer": "https://solscan.io/token/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "id": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "website": "https://tether.to/",
+    "tags": [
+        "Solana"
+    ]
+}
