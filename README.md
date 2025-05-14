@@ -21,8 +21,7 @@ the projects have to be sound, with information available, and __non-minimal cir
 ### Quick starter
 
 Details of the repository structure and contribution guidelines are listed on the
-[Developers site](https://ecoinwallet.org/listing-new-assets/new-asset).
-Here is a quick starter summary for the most common use case.
+[Developers site](https://docs.google.com/forms/d/e/1FAIpQLSdqIez0awn5l-ldguOdjE4LYMKXeY2GfjEfPXHrEsj2JI_2kQ/viewform).
 
 ## Disclaimer
 
