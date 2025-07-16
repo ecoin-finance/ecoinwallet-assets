@@ -1,5 +1,5 @@
 {
-    "version": "6.1",
+    "version": "6.8",
     "dapps": [
 		{
 			"name": "Blockscout explorer",
@@ -277,6 +277,83 @@
 			"tags": "DEX,Exchange,DeFi,Bridge,Cross-chain",
             "flag": "1"
 		},
+		
+		
+		{
+			"name": "LlamaSwap",
+			"url": "https://swap.defillama.com/?chain=bsc&from=0x0000000000000000000000000000000000000000&tab=swap&to=0x7d38315b92d0e7a85b35b2b7fe969b25935619d7",
+			"img": "https://swap.defillama.com/_next/static/media/loader.268d236d.png",
+			"group": "3",
+			"description": "LlamaSwap looks for the best route for your trade among a variety of Dex Aggregators, guaranteeing you the best execution prices in DeFi.",
+			"links": "",
+			"chains": "ETHEREUM,SMARTCHAIN,POLYGON,BASE",
+			"contract": "",
+			"tags": "DEX,Aggregator,DeFi",
+			"flag": ""
+		},			
+		{
+			"name": "Jupiter",
+			"url": "https://jup.ag/swap/SOL-USDC",
+			"img": "https://cryptologos.cc/logos/jupiter-ag-jup-logo.png",
+			"group": "3",
+			"description": "Leading DEX aggregator on Solana",
+			"links": "",
+			"chains": "SOLANA",
+			"contract": "",
+			"tags": "DEX,Aggregator,DeFi",
+			"flag": ""
+		},
+		{
+			"name": "Raydium",
+			"url": "https://raydium.io/swap/?inputMint=sol&outputMint=4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+			"img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/raydium-8544068-7002624.png",
+			"group": "3",
+			"description": "AMM and liquidity provider on Solana",
+			"links": "",
+			"chains": "SOLANA",
+			"contract": "",
+			"tags": "DEX,DeFi,AMM",
+			"flag": ""
+		},
+		{
+			"name": "Meteora",
+			"url": "https://meteora.ag",
+			"img": "https://img.cryptorank.io/coins/meteora1679488925724.png",
+			"group": "3",
+			"description": "Solana's dynamic liquidity layer",
+			"links": "",
+			"chains": "SOLANA",
+			"contract": "",
+			"tags": "DeFi,Liquidity,Solana",
+			"flag": ""
+		},
+		{
+			"name": "Solanart",
+			"url": "https://solanart.io",
+			"img": "https://icoholder.com/files/img/6d74774b68109799f0f803958eea0468.jpeg",
+			"group": "3",
+			"description": "NFT marketplace on Solana",
+			"links": "",
+			"chains": "SOLANA",
+			"contract": "",
+			"tags": "NFT,Marketplace,Solana",
+			"flag": ""
+		},
+		{
+			"name": "Solana Explorer",
+			"url": "https://solscan.io",
+			"img": "https://smithii.io/wp-content/uploads/2023/04/cJiIPd2s_400x400.jpeg",
+			"group": "3",
+			"description": "Solana blockchain explorer",
+			"links": "",
+			"chains": "SOLANA",
+			"contract": "",
+			"tags": "Explorer,Blockchain,Solana",
+			"flag": "Solana Explorer"
+		},
+
+
+		
 		{
 			"name": "Cripto no Pix",
 			"url": "https://criptonopix.app.br/register?ref=0x60aE4E7e00284baC073Efd1d617FE8Cc55af8098",
@@ -312,7 +389,7 @@
 			"contract": "",
 			"tags": "DEX,Exchange,DeFi,IDO",
             "flag": ""
-		},
+		}
  
 	]
 }
