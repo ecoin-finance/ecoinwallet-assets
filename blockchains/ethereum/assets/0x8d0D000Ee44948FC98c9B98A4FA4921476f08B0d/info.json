@@ -1,0 +1,11 @@
+{
+    "name": "World Liberty Financial USD",
+    "website": "https://worldlibertyfinancial.com",
+    "description": "USD1 is designed to maintain a 1:1 peg with the U.S. dollar and is backed by short-term U.S. Treasuries, dollar deposits, and other cash equivalents.",
+    "explorer": "https://bscscan.com/token/0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+    "type": "BEP20",
+    "symbol": "USD1",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d"
+}
