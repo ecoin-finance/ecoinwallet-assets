@@ -1,0 +1,23 @@
+{
+    "name": "CLAPS",
+    "website": "clapstoken.org",
+    "description": "CLAPS is an innovative platform that rewards the authors of the most liked comments on posts from Instagram pages subscribed to the service with its own tokens.",
+    "explorer": "https://bscscan.com/token/0x302737aB3B789eD02E65661DDa387BfB78fEA1A4",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://x.com/clapstoken",
+            "handle": "clapstoken"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/clapstoken",
+            "handle": "clapstoken"
+        }
+    ],
+    "type": "BEP20",
+    "symbol": "CLAPS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x302737aB3B789eD02E65661DDa387BfB78fEA1A4"
+}
