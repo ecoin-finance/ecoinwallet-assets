@@ -1,0 +1,33 @@
+{
+    "name": "Pi Network",
+    "type": "coin",
+    "symbol": "PI",
+    "decimals": 6,
+    "website": "https://minepi.com",
+    "research": "https://medium.com/pi-network",
+    "description": "A user-friendly cryptocurrency you can mine on your phone.",
+    "explorer": "https://blockexplorer.minepi.com/mainnet/",
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/PiCoreTeam"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pinetworkchat"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/pi-network/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/pi-network/"
+        }
+    ],
+    "tags": [
+        "mobile-mining",
+        "social"
+    ]
+}
