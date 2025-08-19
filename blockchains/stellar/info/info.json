@@ -1,0 +1,11 @@
+{
+    "name": "Stellar",
+    "website": "https://stellar.org/",
+    "description": "An open-source, decentralized protocol for digital currency to fiat transfers and cross-border payments.",
+    "explorer": "https://stellar.expert/explorer/public/",
+    "research": "https://www.stellar.org/learn",
+    "symbol": "XLM",
+    "type": "COIN",
+    "decimals": 7,
+    "status": "active"
+}

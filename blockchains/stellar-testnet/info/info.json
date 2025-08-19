@@ -1,0 +1,11 @@
+{
+    "name": "Stellar Testnet",
+    "website": "https://stellar.org/",
+    "description": "Stellar test network for development and testing purposes. Tokens and balances here have no real-world value.",
+    "explorer": "https://stellar.expert/explorer/testnet/",
+    "research": "https://www.stellar.org/learn",
+    "symbol": "tXLM",
+    "type": "COIN",
+    "decimals": 7,
+    "status": "testnet"
+}
