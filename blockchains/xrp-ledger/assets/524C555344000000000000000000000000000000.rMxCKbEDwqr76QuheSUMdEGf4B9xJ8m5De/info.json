@@ -1,0 +1,11 @@
+{
+    "name": "XRP",
+    "type": "ASSET",
+    "symbol": "XRP",
+    "decimals": 6,
+    "website": "https://xrpl.org",
+    "description": "XRP is the native digital asset of the XRP Ledger, designed for fast, low-cost, cross-border payments and liquidity provision.",
+    "explorer": "https://xrpscan.com/account/rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De",
+    "status": "active",
+    "id": "524C555344000000000000000000000000000000.rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Coreum",
+    "type": "ASSET",
+    "symbol": "COREUM",
+    "decimals": 6,
+    "website": "https://www.coreum.com",
+    "description": "Coreum (COREUM) is a third-generation, enterprise-grade blockchain token issued on the XRP Ledger, designed for scalability, interoperability, and real-world use cases.",
+    "explorer": "https://xrpscan.com/account/rfpYHS1P7NGALmf4BhiNffXCcj96zJCore",
+    "status": "active",
+    "id": "rfpYHS1P7NGALmf4BhiNffXCcj96zJCore"
+}
