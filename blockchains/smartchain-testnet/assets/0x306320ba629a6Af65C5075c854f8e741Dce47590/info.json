@@ -1,0 +1,64 @@
+{
+    "name": "Ecoin Finance",
+    "type": "BEP20",
+    "symbol": "tECOIN",
+    "decimals": 18,
+    "website": "https://ecoinfinance.org/",
+    "description": "ECOIN FINANCE is a decentralized deflationary BEP20 token created on the BNB Chain, formerly known as Binance Smart Chain. As a project, ECOIN aims to have an online payment platform through our integrated debit card. People around the world will be able to make easy, fast, and secure payments using their ECOIN balance. Furthermore, you will see your ECOIN balance grow through the reflections of our tokenomics in each transaction.We have developed the ECOIN Wallet from scratch, an innovative cryptocurrency wallet for Android (iOS coming soon), recognized as a pioneer in worldwide security, implementing hardware-level security support. The intuitive One UI interface, developed by Samsung, provides user-friendly navigation for one-handed use. Our app stands out for offering robust security for storing, buying, and trading cryptocurrencies and NFTs, displaying transactions, balances, and secure sending and receiving functions clearly.",
+    "explorer": "https://testnet.bscscan.com/token/0x306320ba629a6Af65C5075c854f8e741Dce47590",
+    "status": "active",
+    "id": "0x306320ba629a6Af65C5075c854f8e741Dce47590",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ecoin_finance_"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Ecoin_token"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/EcoinFinanceOfficial"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://ecoinfinance.org/files/white-paper-ecoin-finance-v2.pdf"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/ecoin.finance"
+        },
+        
+        {
+            "name": "source_code",
+            "url": "https://testnet.bscscan.com/address/0x306320ba629a6Af65C5075c854f8e741Dce47590#code"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/e-coin-finance-new/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/ecoin-finance"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@ecoin.finance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/n5RK7JxDkX"
+        },
+        {
+            "name": "docs",
+            "url": "https://ecoinfinance.org/articles/en/"
+        }
+    ],
+    "tags": [
+        "defi",
+        "staking",
+        "nft",
+        "deflationary"
+    ]
+}
