@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin",
+    "type": "ASSET",
+    "symbol": "USDC",
+    "decimals": 7,
+    "website": "https://www.centre.io/usdc",
+    "description": "USD Coin (USDC) is a fully-reserved stablecoin backed 1:1 with US dollars, available on the Stellar network for fast and low-cost payments.",
+    "explorer": "https://stellar.expert/explorer/testnet/asset/USDC-GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5",
+    "status": "active",
+    "id": "USDC-GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5"
+}

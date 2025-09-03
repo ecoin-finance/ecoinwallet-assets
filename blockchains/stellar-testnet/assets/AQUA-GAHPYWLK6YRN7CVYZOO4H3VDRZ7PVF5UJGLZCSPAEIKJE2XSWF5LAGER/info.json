@@ -1,0 +1,11 @@
+{
+    "name": "AQUA",
+    "type": "ASSET",
+    "symbol": "AQUA",
+    "decimals": 7,
+    "website": "https://www.aqua.org", 
+    "description": "AQUA is a token on the Stellar network, designed for fast and low-cost transactions.",
+    "explorer": "https://stellar.expert/explorer/testnet/asset/AQUA-GAHPYWLK6YRN7CVYZOO4H3VDRZ7PVF5UJGLZCSPAEIKJE2XSWF5LAGER",
+    "status": "active",
+    "id": "AQUA-GAHPYWLK6YRN7CVYZOO4H3VDRZ7PVF5UJGLZCSPAEIKJE2XSWF5LAGER"
+}
