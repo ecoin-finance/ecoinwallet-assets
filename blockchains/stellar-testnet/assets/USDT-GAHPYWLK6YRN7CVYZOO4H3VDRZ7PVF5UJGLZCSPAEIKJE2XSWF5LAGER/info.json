@@ -1,0 +1,11 @@
+{
+    "name": "Tether",
+    "type": "ASSET",
+    "symbol": "USDT",
+    "decimals": 7,
+    "website": "https://tether.to/",
+    "description": "Tether (USDT) is a fully-reserved stablecoin pegged 1:1 to the US dollar, available on the Stellar network for fast and low-cost payments.",
+    "explorer": "https://stellar.expert/explorer/testnet/asset/USDT-GAHPYWLK6YRN7CVYZOO4H3VDRZ7PVF5UJGLZCSPAEIKJE2XSWF5LAGER",
+    "status": "active",
+    "id": "USDT-GAHPYWLK6YRN7CVYZOO4H3VDRZ7PVF5UJGLZCSPAEIKJE2XSWF5LAGER"
+}
