@@ -1,0 +1,11 @@
+{
+    "name": "Bitcoin",
+    "type": "ASSET",
+    "symbol": "BTC",
+    "decimals": 7,
+    "website": "https://bitcoin.org/",
+    "description": "Bitcoin (BTC) is a decentralized digital currency, available on the Stellar network as a wrapped asset for fast and low-cost transfers.",
+    "explorer": "https://stellar.expert/explorer/testnet/asset/BTC-GAHPYWLK6YRN7CVYZOO4H3VDRZ7PVF5UJGLZCSPAEIKJE2XSWF5LAGER",
+    "status": "active",
+    "id": "BTC-GAHPYWLK6YRN7CVYZOO4H3VDRZ7PVF5UJGLZCSPAEIKJE2XSWF5LAGER"
+}
