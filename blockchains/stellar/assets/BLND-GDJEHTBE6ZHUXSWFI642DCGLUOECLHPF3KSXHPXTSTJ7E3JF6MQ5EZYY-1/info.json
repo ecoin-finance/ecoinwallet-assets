@@ -1,0 +1,11 @@
+{
+    "name": "Blend",
+    "type": "ASSET",
+    "symbol": "BLND",
+    "decimals": 7,
+    "website": "https://blend.capital/",
+    "description": "Blend (BLND) is a tokenized asset on the Stellar network, designed for decentralized finance and seamless low-cost transfers.",
+    "explorer": "https://stellar.expert/explorer/public/asset/BLND-GDJEHTBE6ZHUXSWFI642DCGLUOECLHPF3KSXHPXTSTJ7E3JF6MQ5EZYY-1",
+    "status": "active",
+    "id": "BLND-GDJEHTBE6ZHUXSWFI642DCGLUOECLHPF3KSXHPXTSTJ7E3JF6MQ5EZYY-1"
+}
