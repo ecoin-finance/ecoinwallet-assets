@@ -1,0 +1,11 @@
+{
+    "name": "Euro Coin",
+    "type": "ASSET",
+    "symbol": "EURC",
+    "decimals": 7,
+    "website": "https://www.centre.io/eurc",
+    "description": "Euro Coin (EURC) is a fully-reserved stablecoin backed 1:1 with euros, available on the Stellar network for fast and low-cost payments.",
+    "explorer": "https://stellar.expert/explorer/public/asset/EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2",
+    "status": "active",
+    "id": "EURC-GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2"
+}
