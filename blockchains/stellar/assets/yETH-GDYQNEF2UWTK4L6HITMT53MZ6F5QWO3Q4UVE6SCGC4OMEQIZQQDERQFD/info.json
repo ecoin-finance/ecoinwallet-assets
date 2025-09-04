@@ -1,0 +1,11 @@
+{
+    "name": "Ethereum",
+    "type": "ASSET",
+    "symbol": "ETH",
+    "decimals": 7,
+    "website": "https://ethereum.org/",
+    "description": "Ethereum (ETH) is a decentralized smart contract platform, available on the Stellar network as a wrapped asset for fast and low-cost transfers.",
+    "explorer": "https://stellar.expert/explorer/public/asset/yETH-GDYQNEF2UWTK4L6HITMT53MZ6F5QWO3Q4UVE6SCGC4OMEQIZQQDERQFD",
+    "status": "active",
+    "id": "yETH-GDYQNEF2UWTK4L6HITMT53MZ6F5QWO3Q4UVE6SCGC4OMEQIZQQDERQFD"
+}

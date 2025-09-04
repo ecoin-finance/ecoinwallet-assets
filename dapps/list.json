@@ -1,6 +1,81 @@
 {
-    "version": "6.8",
+    "version": "6.9",
     "dapps": [
+	
+
+	
+	    {
+            "name": "Aquarius",
+            "url": "https://aqua.network",
+            "img": "https://aqua.network/favicon.png",
+            "group": "3",
+            "description": "Aquarius - liquidity management layer for Stellar",
+            "links": "",
+            "chains": "STELLAR,STELLAR_T",
+            "contract": "",
+            "tags": "Liquidity,DeFi,Stellar",
+            "flag": ""
+        },
+        {
+            "name": "Blend",
+            "url": "https://blend.capital",
+            "img": "https://docs.blend.capital/~gitbook/image?url=https%3A%2F%2F3627113658-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FlsteMPgIzWJ2y9ruiTJy%252Fuploads%252FVsvCoCALpHWAw8LpU12e%252FBlend%2520Logo%25403x.png%3Falt%3Dmedia%26token%3De8c06118-43b7-4ddd-9580-6c0fc47ce971&width=768&dpr=2&quality=100&sign=f4bb7bc2&sv=1",
+            "group": "3",
+            "description": "Blend is a liquidity protocol primitive, enabling the creation of money markets for any use case.",
+            "links": "",
+            "chains": "STELLAR,STELLAR_T",
+            "contract": "",
+            "tags": "Liquidity,DeFi,Stellar",
+            "flag": ""
+        },
+        {
+            "name": "StellarX",
+            "url": "https://www.stellarx.com",
+            "img": "https://www.stellarx.com/images/favicon.png",
+            "group": "3",
+            "description": "Buy, sell, and trade any token on the Stellar network in seconds just by connecting your wallet.",
+            "links": "",
+            "chains": "STELLAR,STELLAR_T",
+            "contract": "",
+            "tags": "DEX,Exchange,DeFi,Stellar",
+            "flag": ""
+        },
+        {
+            "name": "Allbridge Core",
+            "url": "https://allbridge.io/core/",
+            "img": "https://app.allbridge.io/assets/favicons/favicon-128.png",
+            "group": "3",
+            "description": "Allbridge Core offers a native stablecoin bridging experience, enabling seamless cross-chain swaps between EVM and non-EVM blockchains.",
+            "links": "",
+            "chains": "STELLAR,ETHEREUM,SMARTCHAIN,POLYGON,BASE,SOLANA",
+            "contract": "",
+            "tags": "Bridge,Cross-chain,DEX,Stablecoin,DeFi",
+            "flag": ""
+        },
+        {
+            "name": "Abroad",
+            "url": "https://app.abroad.finance",
+            "img": "https://storage.googleapis.com/cdn-abroad/Icons/Favicon/Abroad_Badge_transparent.png",
+            "group": "3",
+            "description": "Abroad bridges USDC on Stellar with real-time payment networks around the world, enabling seamless crypto-fiat payments. Pay anywhere in Brazil and Colombia with your USDC.",
+            "links": "",
+            "chains": "STELLAR",
+            "contract": "",
+            "tags": "Payments,USDC,Stellar,Crypto-Fiat",
+            "flag": ""
+        },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 		{
 			"name": "Blockscout explorer",
 			"url": "https://zetachain.blockscout.com/",
