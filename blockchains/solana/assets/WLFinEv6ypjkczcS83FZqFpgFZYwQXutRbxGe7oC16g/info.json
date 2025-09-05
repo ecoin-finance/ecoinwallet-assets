@@ -1,0 +1,15 @@
+{
+    "address": "WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
+    "name": "World Liberty Financial",
+    "type": "SOLANA",
+    "symbol": "WLFI",
+    "decimals": 9,
+    "description": "World Liberty Financial (WLFI) is a multi-chain DeFi governance token, also available on Solana.",
+    "status": "active",
+    "explorer": "https://solscan.io/token/WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
+    "id": "WLFinEv6ypjkczcS83FZqFpgFZYwQXutRbxGe7oC16g",
+    "website": "https://worldlibertyfinancial.com",
+    "tags": [
+        "Solana"
+    ]
+}

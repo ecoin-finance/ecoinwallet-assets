@@ -1,0 +1,12 @@
+{
+    "name": "World Liberty Financial",
+    "website": "https://worldlibertyfinancial.com",
+    "description": "World Liberty Financial (WLFI) é um token de governança DeFi com suporte multi-chain, incluindo BSC (BEP-20).",
+    "explorer": "https://bscscan.com/token/0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "WLFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA"
+}
