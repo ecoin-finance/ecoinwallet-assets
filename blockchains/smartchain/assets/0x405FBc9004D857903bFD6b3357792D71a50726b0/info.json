@@ -1,0 +1,15 @@
+{
+  "name": "Plasma",
+  "website": "https://www.plasma.to",
+  "source_code": "",
+  "white_paper": "",
+  "description": "Camada L1 otimizada para transferências estáveis (USD₮), com compatibilidade EVM e taxas muito baixas / zero fee para stablecoins.",
+  "explorer": "https://bscscan.com/token/0x405FBc9004D857903bFD6b3357792D71a50726b0",
+  "research": "",
+  "type": "BEP20",
+  "symbol": "XPL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x405FBc9004D857903bFD6b3357792D71a50726b0",
+  "tags": ["stablecoin infrastructure", "layer1", "payments"]
+}

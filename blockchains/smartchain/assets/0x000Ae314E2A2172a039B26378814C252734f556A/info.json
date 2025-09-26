@@ -1,0 +1,15 @@
+{
+  "name": "Aster",
+  "website": "https://www.asterdex.com",
+  "source_code": "",  
+  "white_paper": "",
+  "description": "Token nativo da plataforma Aster, para governança, uso no ecossistema e adesão DeFi.",
+  "explorer": "https://bscscan.com/token/0x000ae314e2a2172a039b26378814c252734f556a",
+  "research": "",
+  "type": "BEP20",
+  "symbol": "ASTER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x000ae314e2a2172a039b26378814c252734f556a",
+  "tags": ["governance"]
+}
