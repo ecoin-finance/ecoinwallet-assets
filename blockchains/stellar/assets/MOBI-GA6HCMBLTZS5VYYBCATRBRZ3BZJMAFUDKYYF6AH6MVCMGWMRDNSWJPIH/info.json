@@ -1,0 +1,11 @@
+{
+  "name": "Mobius Token",
+  "type": "ASSET",
+  "symbol": "MOBI",
+  "decimals": 7,
+  "website": "https://mobius.network/",
+  "description": "Mobius (MOBI) is a Stellar-based utility token designed to bridge IoT, payments, data and blockchain, issued on Stellar with asset code MOBI and issuer GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH. :contentReference[oaicite:2]{index=2}",
+  "explorer": "https://stellar.expert/explorer/public/asset/MOBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH",
+  "status": "active",
+  "id": "MOBI-GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH"
+}

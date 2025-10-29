@@ -1,0 +1,11 @@
+{
+  "name": "Stronghold Token",
+  "type": "ASSET",
+  "symbol": "SHX",
+  "decimals": 7,
+  "website": "https://stronghold.co/shx",
+  "description": "Stronghold Token (SHX) is a climate-friendly digital currency built on the Stellar network, used within the Stronghold ecosystem for payments, rewards, liquidity and governance. :contentReference[oaicite:1]{index=1}",
+  "explorer": "https://stellar.expert/explorer/public/asset/SHX-GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH",
+  "status": "active",
+  "id": "SHX-GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH"
+}
