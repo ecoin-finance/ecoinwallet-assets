@@ -1,0 +1,11 @@
+{
+    "name": "Giggle Fund",
+    "website": "https://giggletoken.com",
+    "description": "Charity-meme token on BNB Chain: 100% supply 1 M, transaction fees support donations via Giggle Academy.",
+    "explorer": "https://bscscan.com/token/0x20d6015660b3fe52e6690a889b5c51f69902ce0e",
+    "type": "BEP20",
+    "symbol": "GIGGLE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x20d6015660b3fe52e6690a889b5c51f69902ce0e"
+}

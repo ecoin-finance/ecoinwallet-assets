@@ -1,0 +1,11 @@
+{
+    "name": "Kite",
+    "website": "https://kitebsc.com",
+    "description": "New token focused on community growth and decentralized rewards.",
+    "explorer": "https://bscscan.com/token/0x904567252D8F48555b7447c67dCA23F0372E16be",
+    "type": "ERC20",
+    "symbol": "KITE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x904567252D8F48555b7447c67dCA23F0372E16be"
+}
