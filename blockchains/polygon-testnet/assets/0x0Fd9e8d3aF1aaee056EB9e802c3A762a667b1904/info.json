@@ -1,0 +1,29 @@
+{
+    "name": "ChainLink Token",
+    "website": "https://chain.link/",
+    "description": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
+    "explorer": "https://amoy.polygonscan.com/token/0x0Fd9e8d3aF1aaee056EB9e802c3A762a667b1904",
+    "type": "POLYGON",
+    "symbol": "LINK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0Fd9e8d3aF1aaee056EB9e802c3A762a667b1904",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://link.smartcontract.com/whitepaper"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/chainlink"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/chainlink/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/chainlink/"
+        }
+    ]
+}

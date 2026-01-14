@@ -1,0 +1,40 @@
+{
+    "name": "USD Coin",
+    "type": "POLYGON_AMOY",
+    "symbol": "USDC",
+    "decimals": 6,
+    "website": "https://www.circle.com/usdc",
+    "description": "USDC is a fully reserved, dollar-backed stablecoin issued by Circle. This contract represents the official USDC deployment on the Polygon Amoy testnet, intended for development and testing purposes.",
+    "explorer": "https://amoy.polygonscan.com/token/0x41E94Eb019C0762f9Bfcf9Fb1E58725BfB0e7582",
+    "status": "active",
+    "id": "0x41E94Eb019C0762f9Bfcf9Fb1E58725BfB0e7582",
+    "links": [
+        {
+            "name": "website",
+            "url": "https://www.circle.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/circle"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/circlefin"
+        },
+        {
+            "name": "docs",
+            "url": "https://developers.circle.com/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/usd-coin/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/usd-coin"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}

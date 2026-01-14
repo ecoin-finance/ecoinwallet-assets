@@ -1,0 +1,25 @@
+{
+    "name": "Wrapped MATIC",
+    "type": "POLYGON_AMOY",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "website": "https://polygon.technology",
+    "description": "Wrapped MATIC (Polygon Amoy Testnet)",
+    "explorer": "https://amoy.polygonscan.com/token/0x360ad4f9a9A8EFe9A8DCB5f461c4Cc1047E1Dcf9",
+    "status": "active",
+    "id": "0x360ad4f9a9A8EFe9A8DCB5f461c4Cc1047E1Dcf9",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/0xPolygon"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/polygonofficial"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/maticnetwork/"
+        }
+    ]
+}

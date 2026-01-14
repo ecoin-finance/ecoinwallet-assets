@@ -1,13 +1,13 @@
 {
     "name": "Polygon",
     "website": "https://polygon.technology/",
-    "short_description": "Polygon (POL) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
-    "description": "Polygon (POL) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
-    "explorer": "https://polygonscan.com/",
-    "research": "https://docs.matic.network/",
+    "short_description": "Polygon Amoy testnet native token (POL), used for gas fees and testing network functionality.",
+    "description": "POL is the native token of the Polygon ecosystem. On the Amoy testnet, POL is used for gas fees and network testing without real economic value.",
+    "explorer": "https://amoy.polygonscan.com/",
+    "research": "https://docs.polygon.technology/",
     "type": "coin",
     "symbol": "POL",
-    "rpc_url": "https://polygon-rpc.com",
+    "rpc_url": "https://rpc-amoy.polygon.technology/",
     "decimals": 18,
     "status": "active",
     "links": [
