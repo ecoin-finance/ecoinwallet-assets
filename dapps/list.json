@@ -453,7 +453,7 @@
 		},
 		{
 			"name": "AsterDEX",
-			"url": "https://www.asterdex.com/pt-BR/trade/pro/futures/BTCUSDT",
+			"url": "https://www.asterdex.com/en/trade/pro/futures/BTCUSDT",
 			"img": "https://raw.githubusercontent.com/ecoin-finance/ecoinwallet-assets/main/blockchains/smartchain/assets/0x000Ae314E2A2172a039B26378814C252734f556A/logo.png",
 			"group": "3",
 			"description": "Decentralized Exchange offering spot and futures trading",
